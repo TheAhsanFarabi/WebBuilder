@@ -17,13 +17,13 @@ To run the WebBuilder app locally on your machine, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/TheAhsanFarabi/WebBuilder.git
+   git clone https://github.com/TheAhsanFarabi/WebBuilder-by-React.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd WebBuilder
+   cd WebBuilder-by-React
    ```
 
 3. Install the necessary dependencies:
