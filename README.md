@@ -10,6 +10,10 @@ WebBuilder is a simple web-based code editor that allows users to write and prev
 - Simple and easy-to-use interface.
 - Utilizes React framework for dynamic rendering and state management.
 
+## Screenshot
+![image](https://github.com/TheAhsanFarabi/WebBuilder-by-React/WebBuilder.png)
+
+
 ## Getting Started
 
 To run the WebBuilder app locally on your machine, follow these steps:
